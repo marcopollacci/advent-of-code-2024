@@ -4,6 +4,7 @@
   "main": "common.js",
   "type": "module",
   "scripts": {
+    "generate": "node generate.js",
     "day-01": "DAY=01 nodemon day-01/part-1.js"
   },
   "author": "Marco Pollacci",
