@@ -9,24 +9,5 @@
   },
   "eslint.lintTask.enable": true,
   "files.eol": "\n",
-  "conventionalCommits.scopes": ["project"],
-  "workbench.colorCustomizations": {
-    "activityBar.activeBackground": "#f66873",
-    "activityBar.background": "#f66873",
-    "activityBar.foreground": "#15202b",
-    "activityBar.inactiveForeground": "#15202b99",
-    "activityBarBadge.background": "#58f44b",
-    "activityBarBadge.foreground": "#15202b",
-    "commandCenter.border": "#e7e7e799",
-    "sash.hoverBorder": "#f66873",
-    "statusBar.background": "#f33847",
-    "statusBar.foreground": "#e7e7e7",
-    "statusBarItem.hoverBackground": "#f66873",
-    "statusBarItem.remoteBackground": "#f33847",
-    "statusBarItem.remoteForeground": "#e7e7e7",
-    "titleBar.activeBackground": "#f33847",
-    "titleBar.activeForeground": "#e7e7e7",
-    "titleBar.inactiveBackground": "#f3384799",
-    "titleBar.inactiveForeground": "#e7e7e799"
-  }
+  "conventionalCommits.scopes": ["project", "advent"]
 }
