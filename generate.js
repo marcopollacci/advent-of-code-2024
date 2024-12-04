@@ -17,7 +17,7 @@ mkdir(newFolder, () => {
   writeFileSync(`${newFolder}/input.txt`, "");
 
   //create mission.md file if not exists
-  writeFileSync(`${newFolder}/mission.md`, "");
+  writeFileSync(`${newFolder}/README.md`, "");
 
   //create part-1.js and part-2.js
   [1, 2].forEach((part) => {

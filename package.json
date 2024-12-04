@@ -10,7 +10,9 @@
     "day-02-part-1": "DAY=02 nodemon day-02/part-1.js",
     "day-02-part-2": "DAY=02 nodemon day-02/part-2.js",
     "day-03-part-1": "DAY=03 nodemon day-03/part-1.js",
-    "day-03-part-2": "DAY=03 nodemon day-03/part-2.js"
+    "day-03-part-2": "DAY=03 nodemon day-03/part-2.js",
+    "day-04-part-1": "DAY=04 nodemon day-04/part-1.js",
+    "day-04-part-2": "DAY=04 nodemon day-04/part-2.js"
   },
   "author": "Marco Pollacci",
   "license": "ISC",
