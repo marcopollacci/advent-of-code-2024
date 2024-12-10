@@ -17,7 +17,13 @@
     "day-06-part-1": "DAY=06 nodemon day-06/part-1.js",
     "day-06-part-2": "DAY=06 nodemon day-06/part-2.js",
     "day-07-part-1": "DAY=07 nodemon day-07/part-1.js",
-    "day-07-part-2": "DAY=07 nodemon day-07/part-2.js"
+    "day-07-part-2": "DAY=07 nodemon day-07/part-2.js",
+    "day-08-part-1": "DAY=08 nodemon day-08/part-1.js",
+    "day-08-part-2": "DAY=08 nodemon day-08/part-2.js",
+    "day-09-part-1": "DAY=09 nodemon day-09/part-1.js",
+    "day-09-part-2": "DAY=09 nodemon day-09/part-2.js",
+    "day-10-part-1": "DAY=10 nodemon day-10/part-1.js",
+    "day-10-part-2": "DAY=10 nodemon day-10/part-2.js"
   },
   "author": "Marco Pollacci",
   "license": "ISC",
